@@ -1,0 +1,13 @@
+.nav-item{
+    font-size: 20px;
+} 
+.spanTag{
+    font-size: 18px;
+}
+.temp-container{
+    width: 100%;   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
